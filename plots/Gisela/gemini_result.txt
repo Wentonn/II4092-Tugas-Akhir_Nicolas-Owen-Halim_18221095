@@ -1,0 +1,20 @@
+Hi Gisela, Your credit score result is "Standard".
+
+The reason for your standard credit score is a combination of several factors. While some aspects of your financial profile are positive, others could be improved.  Our model indicates that your "Credit Mix" is a particularly important factor currently impacting your score.  Additionally, your "Total Debt" and "Outstanding Debt" also play a significant role.  While your "Interest Rate" and reducing the number of "Delayed Payments" contribute positively to your score, improving the aforementioned factors could significantly elevate your score.  Finally, your income level and spending habits also appear to be taken into account.
+
+
+To improve your credit score to "Good," we suggest focusing on these key areas based on our analysis:
+
+**Counterfactual Explanation 1:**  This option suggests you focus on changing your occupation to "Accountant" and reducing your monthly inhand salary,  lowering your "Total EMI per month", and increasing your "Outstanding Debt". While counterintuitive, this shows the model's sensitivity to the interaction between these factors.  It is not practically beneficial and should be ignored.
+
+
+**Counterfactual Explanation 2:** This option mirrors the first, suggesting similar changes and is not practically sound.
+
+
+**Counterfactual Explanation 3:**  Again, this option presents similar changes as the previous ones and isn't a realistic path to credit score improvement.
+
+**Counterfactual Explanation 4:** This option offers some more constructive advice: Consider reducing your number of loans and perhaps prioritizing paying off your mortgage loan.  Improving your Credit Mix ("Standard" to "Good") would also be beneficial. Consider lowering your transaction values to "small".  Addressing your unemployment category ("unem_category" to 3) is also important.  These adjustments, while requiring effort, are more manageable and would likely yield positive results.
+
+Remember, building a good credit score takes time and consistent effort.  By focusing on reducing your overall debt, improving your credit mix, managing your loan portfolio effectively, and consistently paying your bills on time, you can improve your financial standing and significantly boost your creditworthiness.
+
+Thank you for applying for credit with us. We hope you have a great time!

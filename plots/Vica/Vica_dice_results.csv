@@ -1,0 +1,62 @@
+,Counterfactual #,Feature,Original,Counterfactual
+0,1,Annual_Income,62846.31,84767.05979761155
+1,1,Num_Bank_Accounts,9,7
+2,1,Num_Credit_Card,8,3
+3,1,Num_of_Loan,3,2
+4,1,Num_of_Delayed_Payment,18,20
+5,1,Credit_Mix,Bad,Good
+6,1,Outstanding_Debt,4073.62,1306.322172764042
+7,1,Credit_History_Age,1.9166666666666679,14.654479274272596
+8,1,Payment_of_Min_Amount,Yes,No/NM
+9,1,Amount_invested_monthly,374.90589349565977,1187.0734173203382
+10,1,Home Equity Loan,0.0,1.0
+11,1,No Data,0.0,1.0
+12,1,Total_Invested,1416.0910945668186,3555.7226628742073
+13,2,Age,26.0,49.650491530395826
+14,2,Num_of_Loan,3,6
+15,2,Delay_from_due_date,40,21
+16,2,Num_Credit_Inquiries,10,17
+17,2,Credit_Mix,Bad,Good
+18,2,Outstanding_Debt,4073.62,802.921507254575
+19,2,Credit_Utilization_Ratio,28.30355201243161,31.62227612293102
+20,2,Credit_History_Age,1.9166666666666679,28.485788641532316
+21,2,Amount_invested_monthly,374.90589349565977,1594.397140902631
+22,2,Monthly_Balance,149.4304368568173,564.6859732217645
+23,2,Personal Loan,0.0,1.0
+24,2,Payday Loan,0.0,1.0
+25,2,Student Loan,1.0,0.0
+26,2,No Data,0.0,1.0
+27,2,Spending_Level,Low,High
+28,2,Transaction_Value,Large,Medium
+29,2,in_category,2.0,3.0
+30,2,Total_Invested,1416.0910945668186,3574.1094470580897
+31,2,Total_Debt,12220.86,4921.78202275168
+32,3,Annual_Income,62846.31,84767.05979761155
+33,3,Num_Bank_Accounts,9,7
+34,3,Num_Credit_Card,8,3
+35,3,Num_of_Loan,3,2
+36,3,Num_of_Delayed_Payment,18,20
+37,3,Num_Credit_Inquiries,10,14
+38,3,Credit_Mix,Bad,Good
+39,3,Outstanding_Debt,4073.62,1306.322172764042
+40,3,Credit_History_Age,1.9166666666666679,14.654479274272596
+41,3,Payment_of_Min_Amount,Yes,No/NM
+42,3,Amount_invested_monthly,374.90589349565977,1187.0734173203382
+43,3,Home Equity Loan,0.0,1.0
+44,3,No Data,0.0,1.0
+45,3,Total_Invested,1416.0910945668186,3555.7226628742073
+46,4,Annual_Income,62846.31,84767.05979761155
+47,4,Num_Bank_Accounts,9,7
+48,4,Num_Credit_Card,8,3
+49,4,Num_of_Loan,3,2
+50,4,Delay_from_due_date,40,64
+51,4,Num_of_Delayed_Payment,18,20
+52,4,Num_Credit_Inquiries,10,14
+53,4,Credit_Mix,Bad,Good
+54,4,Outstanding_Debt,4073.62,1306.322172764042
+55,4,Credit_History_Age,1.9166666666666679,14.654479274272596
+56,4,Payment_of_Min_Amount,Yes,No/NM
+57,4,Amount_invested_monthly,374.90589349565977,1187.0734173203382
+58,4,Home Equity Loan,0.0,1.0
+59,4,No Data,0.0,1.0
+60,4,Total_Invested,1416.0910945668186,3555.7226628742073

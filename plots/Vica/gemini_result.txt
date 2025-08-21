@@ -1,0 +1,24 @@
+Hi Vica, Your credit score result is "Bad".
+
+The reason for your classification result is a combination of several factors.  Our model indicates that your current level of outstanding debt, your credit mix (the types of credit you have), and the length of your credit history are significant factors contributing to your current score.  Additionally, your recent payment history and the number of credit cards you have also played a role. While some factors, like your investment levels, showed a slightly positive impact, the negative factors outweighed the positive ones.
+
+
+To improve your credit score in the future, we suggest focusing on the following areas, based on our analysis:
+
+**Counterfactual Explanation 1:**
+
+This scenario suggests that you could improve your credit score by:
+
+* **Increasing your annual income:**  A higher income demonstrates greater financial stability, which is viewed favorably by lenders.
+* **Reducing the number of bank accounts and credit cards:**  Managing fewer accounts simplifies your finances and may reduce the risk of missed payments.
+* **Reducing your number of loans:**  A lower number of loans indicates a lower overall debt burden.
+* **Improving your credit mix:**  Diversifying your credit portfolio by including a mix of different credit products (like a home equity loan) can positively impact your score.  It’s crucial to manage all credit responsibly.
+* **Substantially reducing your outstanding debt:** This is a major factor.  Paying down your current debt significantly will significantly improve your credit profile.
+* **Increasing your credit history age:**  Lenders prefer longer credit histories, demonstrating a proven track record of responsible credit management. This will come with time, provided you keep managing your existing credit well.
+* **Increasing your monthly investment:** Increasing investment shows financial responsibility and stability.
+
+**Counterfactual Explanation 2 & 3 & 4:**
+
+These scenarios offer similar improvements;  the key differences lie in the recommended steps and the levels of adjustments needed to reach a better credit rating. Note that the changes suggested in these scenarios, like increasing the number of loans (scenario 2), might seem counter-intuitive. However, they are likely related to the overall debt-to-income ratio, credit history, and other factors which aren't explicitly listed.  These are more complex adjustments which would be best discussed with a financial advisor, if needed.  For a simpler and more immediately effective plan, we would still recommend focusing on those changes listed in counterfactual explanation 1, particularly concerning debt reduction, credit history and payment history.
+
+Thank you for applying for credit with us. We hope you have a great time!

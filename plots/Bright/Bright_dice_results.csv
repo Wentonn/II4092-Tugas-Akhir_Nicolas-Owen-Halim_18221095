@@ -1,0 +1,60 @@
+,Counterfactual #,Feature,Original,Counterfactual
+0,1,Num_Credit_Card,7,4
+1,1,Delay_from_due_date,22,5
+2,1,Changed_Credit_Limit,5.72,-4.375545189327674
+3,1,Credit_Mix,Bad,Standard
+4,1,Outstanding_Debt,1584.64,492.8746227267611
+5,1,Total_EMI_per_month,40.10835921305585,151.6290154458114
+6,1,Monthly_Balance,262.1986655630369,669.2671159344799
+7,1,Auto Loan,1.0,0.0
+8,1,Mortgage Loan,1.0,0.0
+9,1,unem_category,1.0,2.0
+10,1,in_category,0.0,1.0
+11,1,Total_Invested,33.02260022390726,2641.5159552057253
+12,1,Monthly_Expenses,73.13095943696311,1831.977319139537
+13,1,Total_Loan_Applied,6,19
+14,2,Age,14.0,53.27167583382598
+15,2,Occupation,Manager,Media_Manager
+16,2,Annual_Income,8871.555000000008,171223.8197026173
+17,2,Num_Credit_Card,7,1
+18,2,Interest_Rate,20.0,30.359144020754528
+19,2,Num_of_Delayed_Payment,23,18
+20,2,Changed_Credit_Limit,5.72,1.2602999315363466
+21,2,Num_Credit_Inquiries,9,17
+22,2,Credit_Mix,Bad,Good
+23,2,Outstanding_Debt,1584.64,260.8138005862206
+24,2,Credit_Utilization_Ratio,22.861782392308783,20.316122545292956
+25,2,Personal Loan,1.0,0.0
+26,2,Total_Invested,33.02260022390726,7399.7438861637165
+27,2,Total_Loan_Applied,6,16
+28,3,Annual_Income,8871.555000000008,157660.56506046205
+29,3,Num_Credit_Card,7,4
+30,3,Interest_Rate,20.0,30.10097580378853
+31,3,Num_of_Delayed_Payment,23,13
+32,3,Changed_Credit_Limit,5.72,17.401370151828893
+33,3,Num_Credit_Inquiries,9,2
+34,3,Credit_Mix,Bad,Good
+35,3,Outstanding_Debt,1584.64,1077.6880445371028
+36,3,Total_EMI_per_month,40.10835921305585,1491.7848661501648
+37,3,Amount_invested_monthly,33.02260022390726,818.2048867157819
+38,3,Monthly_Balance,262.1986655630369,1230.2949870644227
+39,3,Credit-Builder Loan,1.0,0.0
+40,3,Transaction_Value,Medium,Small
+41,3,unem_category,1.0,0.0
+42,3,in_category,0.0,2.0
+43,3,Total_Loan_Applied,6,36
+44,4,Num_Credit_Card,7,4
+45,4,Delay_from_due_date,22,5
+46,4,Changed_Credit_Limit,5.72,-4.375545189327674
+47,4,Credit_Mix,Bad,Standard
+48,4,Outstanding_Debt,1584.64,492.8746227267611
+49,4,Total_EMI_per_month,40.10835921305585,151.6290154458114
+50,4,Monthly_Balance,262.1986655630369,669.2671159344799
+51,4,Auto Loan,1.0,0.0
+52,4,Mortgage Loan,1.0,0.0
+53,4,unem_category,1.0,2.0
+54,4,in_category,0.0,1.0
+55,4,Total_Invested,33.02260022390726,2641.5159552057253
+56,4,Total_Debt,1584.6400000000003,24131.10263566318
+57,4,Monthly_Expenses,73.13095943696311,1831.977319139537
+58,4,Total_Loan_Applied,6,19

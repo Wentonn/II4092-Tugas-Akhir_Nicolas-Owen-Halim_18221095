@@ -1,0 +1,6 @@
+Hi Dave, Your credit score result is "Good".
+
+The model indicates that your credit score is good.  Several factors contributed positively to this assessment, including a positive credit mix and a relatively low outstanding debt. Your credit history age also played a beneficial role.  Conversely, factors like the number of credit inquiries and payment behavior (specifically,  your history of delayed payments) had a slightly negative influence but were ultimately outweighed by the positive aspects.
+
+
+Thank you for applying for credit with us! We hope you have a great day!

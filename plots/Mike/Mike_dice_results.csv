@@ -1,0 +1,21 @@
+,Counterfactual #,Feature,Original,Counterfactual
+0,1,Monthly_Inhand_Salary,1954.7716666666665,854.2656500471098
+1,1,Num_Bank_Accounts,5,1
+2,1,Credit_Mix,Standard,Good
+3,1,Payment_of_Min_Amount,Yes,No/NM
+4,1,Monthly_Balance,303.78566792791247,1385.7094195124087
+5,1,Not Specified,0.0,1.0
+12,3,Num_Credit_Card,3,2
+13,3,Changed_Credit_Limit,12.82,9.61273163667927
+14,3,Credit_Mix,Standard,Good
+15,3,Total_EMI_per_month,60.303433908671494,1712.6142586702554
+16,3,Credit-Builder Loan,0.0,1.0
+17,3,Mortgage Loan,0.0,1.0
+18,3,Total_Loan_Applied,6,33
+19,4,Occupation,Manager,Doctor
+20,4,Monthly_Inhand_Salary,1954.7716666666665,854.2656500471098
+21,4,Num_Bank_Accounts,5,1
+22,4,Credit_Mix,Standard,Good
+23,4,Payment_of_Min_Amount,Yes,No/NM
+24,4,Monthly_Balance,303.78566792791247,1385.7094195124087
+25,4,Not Specified,0.0,1.0

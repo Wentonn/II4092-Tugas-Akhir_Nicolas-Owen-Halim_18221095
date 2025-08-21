@@ -1,0 +1,13 @@
+,Counterfactual #,Feature,Original,Counterfactual
+0,1,Interest_Rate,30.0,19.706603028689134
+1,1,Changed_Credit_Limit,14.83,2.847187294079591
+2,1,Credit_Mix,Bad,Good
+3,1,Total_EMI_per_month,39.72965110731147,713.4449503339887
+4,1,Amount_invested_monthly,64.00220939772015,1112.116811491855
+5,1,Debt Consolidation Loan,0.0,1.0
+11,3,Num_Credit_Inquiries,10,18
+12,3,Credit_Mix,Bad,Good
+13,3,Total_EMI_per_month,39.72965110731147,1367.0855943213314
+14,3,Auto Loan,0.0,1.0
+15,3,Credit-Builder Loan,0.0,1.0
+16,3,cci_category,0.0,1.0

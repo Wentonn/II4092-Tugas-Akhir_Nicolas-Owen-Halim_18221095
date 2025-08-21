@@ -1,0 +1,5 @@
+,Counterfactual #,Feature,Original,Counterfactual
+0,1,Num_Credit_Inquiries,3,1
+1,2,Num_of_Delayed_Payment,2,7
+2,3,Debt Consolidation Loan,0.0,1.0
+3,4,Monthly_Balance,258.65995129199933,145.03168840550717

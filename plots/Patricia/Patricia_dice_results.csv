@@ -1,0 +1,32 @@
+,Counterfactual #,Feature,Original,Counterfactual
+0,1,Occupation,Media_Manager,Accountant
+1,1,Delay_from_due_date,53,4
+2,1,Num_Credit_Inquiries,12,22
+3,1,Credit_Mix,Bad,Good
+4,1,Credit_Utilization_Ratio,24.4753822566092,28.364470005163703
+5,1,Total_EMI_per_month,66.81748257322343,1360.451916204001
+6,1,unem_category,1.0,0.0
+7,1,Total_Debt,1268.96,22094.14857555936
+8,2,Monthly_Inhand_Salary,1866.685833333333,9397.245829292415
+9,2,Num_Bank_Accounts,7,9
+10,2,Num_Credit_Card,9,1
+11,2,Num_Credit_Inquiries,12,7
+12,2,Credit_Mix,Bad,Good
+13,2,Debt Consolidation Loan,0.0,1.0
+14,2,Total_Loan_Applied,4,5
+15,3,Occupation,Media_Manager,Accountant
+16,3,Delay_from_due_date,53,4
+17,3,Num_Credit_Inquiries,12,22
+18,3,Credit_Mix,Bad,Good
+19,3,Credit_Utilization_Ratio,24.4753822566092,28.364470005163703
+20,3,Total_EMI_per_month,66.81748257322343,1360.451916204001
+21,3,unem_category,1.0,0.0
+22,3,Total_Debt,1268.96,22094.14857555936
+23,4,Occupation,Media_Manager,Accountant
+24,4,Delay_from_due_date,53,4
+25,4,Num_Credit_Inquiries,12,22
+26,4,Credit_Mix,Bad,Good
+27,4,Credit_Utilization_Ratio,24.4753822566092,28.364470005163703
+28,4,Total_EMI_per_month,66.81748257322343,1360.451916204001
+29,4,unem_category,1.0,0.0
+30,4,Total_Debt,1268.96,22094.14857555936

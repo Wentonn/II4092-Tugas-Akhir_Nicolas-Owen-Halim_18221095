@@ -1,0 +1,16 @@
+,Counterfactual #,Feature,Original,Counterfactual
+0,1,Occupation,Entrepreneur,Accountant
+1,1,Interest_Rate,30.0,14.48852461658913
+2,1,Delay_from_due_date,8,11
+3,1,Num_of_Delayed_Payment,8,25
+4,1,Credit_Mix,Standard,Good
+5,1,Outstanding_Debt,2004.5500000000002,629.9636936050221
+6,1,unem_category,0.0,3.0
+16,3,Age,23.0,30.757835776207234
+17,3,Delay_from_due_date,8,4
+18,3,Credit_Mix,Standard,Good
+19,3,Outstanding_Debt,2004.5500000000002,1015.0621157452886
+20,3,Credit_History_Age,10.333333333333334,29.462715451961245
+21,3,Home Equity Loan,0.0,1.0
+22,3,cci_category,1.0,3.0
+23,3,Total_Invested,185.64303969258117,389.2278074147594

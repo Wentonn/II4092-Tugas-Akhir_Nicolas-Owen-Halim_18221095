@@ -1,0 +1,16 @@
+,Counterfactual #,Feature,Original,Counterfactual
+0,1,Credit_Mix,Standard,Good
+1,1,Spending_Level,Low,High
+2,1,Transaction_Value,Small,Medium
+3,1,Total_Debt,2605.44,448.6676778320807
+4,1,Monthly_Expenses,494.7035171417696,2206.9632052949933
+5,2,Total_EMI_per_month,108.8103330753675,1395.5255266227227
+6,2,Amount_invested_monthly,385.8931840664021,1557.7663976627305
+7,2,Monthly_Expenses,494.7035171417696,1987.4183276904223
+8,3,Credit_Mix,Standard,Good
+9,3,Transaction_Value,Small,Medium
+10,3,Total_Debt,2605.44,448.6676778320807
+11,3,Monthly_Expenses,494.7035171417696,2206.9632052949933
+12,4,Total_EMI_per_month,108.8103330753675,1729.9042069626475
+13,4,No Data,0.0,1.0
+14,4,Monthly_Expenses,494.7035171417696,1357.6648215328528

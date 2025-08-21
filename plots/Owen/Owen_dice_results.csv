@@ -1,0 +1,8 @@
+,Counterfactual #,Feature,Original,Counterfactual
+0,1,Monthly_Inhand_Salary,2373.828333333333,6444.59758147643
+1,1,Total_EMI_per_month,0.0,1757.6970386079079
+2,2,Transaction_Value,Small,Large
+3,2,Monthly_Expenses,104.84138626270271,777.5225994588077
+4,3,Num_Credit_Card,3,2
+5,3,Credit_Utilization_Ratio,35.01567648975036,41.84219598154263
+6,4,Outstanding_Debt,1443.42,836.0953313116885

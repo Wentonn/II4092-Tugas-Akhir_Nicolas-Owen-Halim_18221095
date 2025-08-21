@@ -1,0 +1,15 @@
+Hi Devi, Your credit score result is "Bad".
+
+The reason for your classification result is a combination of several factors.  Our model indicates that your high interest rate and relatively high outstanding debt significantly impacted your score.  Additionally, your credit mix, while not severely negative, could be improved.  Factors that slightly helped your score include the number of bank accounts and credit cards you have. However, a few areas were negative, such as the delay from your due date and the number of delayed payments.  These factors outweigh the positive ones, resulting in a "Bad" classification.
+
+
+To improve your credit score in the future, we suggest focusing on a few key areas:
+
+**Option 1 (Counterfactual #1):** This option focuses on improving your occupation and financial management.  Becoming an Accountant (from Entrepreneur) suggests a more stable income stream, which positively impacts creditworthiness. Reducing your interest rate to around 14%, significantly lowering your outstanding debt to around 630, and improving your credit mix to "Good" are crucial steps. While increasing the number of delayed payments might seem counterintuitive, in this specific scenario, the model suggests that focusing on other factors (like lowering outstanding debt and interest rate) would outweigh this impact. Improving your unemployment category to 3 will help.
+
+**Option 2 (Counterfactual #3):** This option suggests a longer-term strategy.  Increasing your age slightly to reflect a more established credit history and reducing your delay from due date would be beneficial.  Improving your credit mix to "Good" and lowering your outstanding debt (though less drastically than in Option 1) remains crucial.  Furthermore, acquiring a Home Equity Loan and improving your CCI category and Total Invested metrics suggest a path towards more responsible financial habits that would positively influence your credit profile over time.  In this approach, you must pay close attention to the length of your credit history.
+
+
+It's important to remember that improving your credit score takes time and consistent effort.  By focusing on these suggestions and practicing responsible financial habits, you can significantly improve your chances of obtaining a better credit score in the future.  
+
+Thank you for applying for credit with us. We hope you have a great day!
